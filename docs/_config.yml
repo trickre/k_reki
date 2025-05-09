@@ -28,7 +28,7 @@ twitter_username: 非公開
 github_username:  trickre
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minimal
 plugins:
   - jekyll-feed
 
